@@ -56,4 +56,4 @@ jobs:
           path: dist/output-${{ matrix.os }}.txt
           if-no-files-found: error
           retention-days: 7
-.github/workflows/matrix-artifacts.yml
+
